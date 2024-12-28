@@ -1,0 +1,31 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "this is the react js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Rutikark/react-js.git"
+  },
+  "author": "Rutikark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rutikark/react-js/issues"
+  },
+  "homepage": "https://github.com/Rutikark/react-js#readme",
+  "devDependencies": {
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "parcel": "^2.13.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "browserlist":[
+    "last 2 versions"
+  ]
+}
