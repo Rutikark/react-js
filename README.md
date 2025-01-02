@@ -10,5 +10,13 @@
 -Minification
 -Bundling
 -Compressing
+-consistent Hashing
+-code splitting
+-differential bundling
+-diagnostic
+-good error handling
+-HTTPs
+-tree shaking
+-different dev and prod bundles
 
 
