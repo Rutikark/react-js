@@ -1,0 +1,21 @@
+.search-input {
+  width: 500px;
+  padding: 10px;
+}
+
+.result-container {
+  border: 1px solid #000;
+  width: 520px;
+  overflow-y: scroll;
+}
+
+.result {
+  padding: 5px;
+  display: block;
+}
+
+.result:hover {
+  cursor: pointer;
+  background-color: #ffebcd;
+}
+/*# sourceMappingURL=index.9e4c6fd2.css.map */

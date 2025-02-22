@@ -1,0 +1,18 @@
+.search-input{
+    width: 500px;
+    padding: 10px;
+}
+.result-container{
+    width: 520px;
+    border:1px solid black;
+    overflow-y: scroll; 
+}
+.result{
+    display: block;
+    padding:5px
+}
+.result:hover{
+    background-color: blanchedalmond;
+    cursor:pointer;
+}
+
